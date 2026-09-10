@@ -1,5 +1,3 @@
-![imagem](images/go-study.png)
-
 ## Basic commands 
 ``go run:`` Run a .go file
 
