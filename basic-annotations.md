@@ -55,3 +55,16 @@ func HelloWorld(){
     fmt.Println(¨Hello World¨)
 }
 ```
+## Variable declaration
+
+We can declare a variable with two ways:
+
+Using var and the type or variable 
+```
+var myFirstString string
+```
+
+Or using the := the value will be add defining the value of the variable
+```
+mySecondString := "Texting something in this block of code."
+```
